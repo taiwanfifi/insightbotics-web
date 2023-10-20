@@ -1,0 +1,118 @@
+/Users/william/Documents/hugo/insightbotics-web
+├── archetypes
+│   └── default.md
+├── assets
+├── content
+├── data
+├── hugo.toml
+├── i18n
+├── layouts
+├── output.txt
+├── static
+└── themes
+    └── hugo-digital-garden-theme
+        ├── LICENSE
+        ├── README.md
+        ├── archetypes
+        │   └── default.md
+        ├── config.toml
+        ├── exampleSite
+        │   ├── config.toml
+        │   ├── content
+        │   │   ├── about
+        │   │   │   ├── featured.jpg
+        │   │   │   └── index.md
+        │   │   ├── garden
+        │   │   │   ├── _index.md
+        │   │   │   ├── evergreen_example.md
+        │   │   │   ├── growing_example.md
+        │   │   │   └── seeding_example.md
+        │   │   ├── library
+        │   │   │   ├── _index.md
+        │   │   │   ├── book1
+        │   │   │   │   ├── featured.jpg
+        │   │   │   │   └── index.md
+        │   │   │   └── book2
+        │   │   │       ├── featured.jpg
+        │   │   │       └── index.md
+        │   │   └── projects
+        │   │       ├── _index.md
+        │   │       ├── project1
+        │   │       │   ├── featured.png
+        │   │       │   ├── index.md
+        │   │       │   └── jessica-weiller-GAw5wFLVWVo-unsplash.jpg
+        │   │       ├── project2
+        │   │       │   ├── featured.png
+        │   │       │   └── index.md
+        │   │       └── project3
+        │   │           └── index.md
+        │   └── static
+        │       └── css
+        │           └── my_style.css
+        ├── images
+        │   ├── screenshot.png
+        │   └── tn.png
+        ├── layouts
+        │   ├── 404.html
+        │   ├── _default
+        │   │   ├── about.html
+        │   │   ├── baseof.html
+        │   │   ├── list.html
+        │   │   └── single.html
+        │   ├── garden
+        │   │   └── list.html
+        │   ├── index.html
+        │   ├── library
+        │   │   ├── list.html
+        │   │   └── single.html
+        │   ├── partials
+        │   │   ├── card_book.html
+        │   │   ├── card_garden.html
+        │   │   ├── card_project.html
+        │   │   ├── footer.html
+        │   │   ├── head.html
+        │   │   ├── header.html
+        │   │   ├── home_garden.html
+        │   │   ├── home_project.html
+        │   │   ├── metadata.html
+        │   │   ├── script.html
+        │   │   └── status.html
+        │   ├── projects
+        │   │   └── list.html
+        │   └── shortcodes
+        │       ├── column.html
+        │       ├── image.html
+        │       ├── mermaid.html
+        │       └── row.html
+        ├── static
+        │   ├── css
+        │   │   ├── all.min.css
+        │   │   ├── bootstrap.min.css
+        │   │   ├── dark.css
+        │   │   └── style.css
+        │   ├── js
+        │   │   ├── bootstrap.min.js
+        │   │   ├── dark.js
+        │   │   ├── isotope.js
+        │   │   ├── isotope.pkgd.min.js
+        │   │   ├── jquery.min.js
+        │   │   └── mermaid.min.js
+        │   └── webfonts
+        │       ├── fa-brands-400.eot
+        │       ├── fa-brands-400.svg
+        │       ├── fa-brands-400.ttf
+        │       ├── fa-brands-400.woff
+        │       ├── fa-brands-400.woff2
+        │       ├── fa-regular-400.eot
+        │       ├── fa-regular-400.svg
+        │       ├── fa-regular-400.ttf
+        │       ├── fa-regular-400.woff
+        │       ├── fa-regular-400.woff2
+        │       ├── fa-solid-900.eot
+        │       ├── fa-solid-900.svg
+        │       ├── fa-solid-900.ttf
+        │       ├── fa-solid-900.woff
+        │       └── fa-solid-900.woff2
+        └── theme.toml
+
+36 directories, 80 files
