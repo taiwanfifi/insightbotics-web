@@ -1,16 +1,16 @@
 baseURL = "https://www.insightbotics.com"
 languageCode = "en-us"
-title = "Insightbotics Academic Research"
+title = "Insightbotics Research"
 theme = "hugo-digital-garden-theme"
 themesdir = "./themes"
-copyright = "Insightbotics ©"
+copyright = "Insightbotics Tech CO., LTD.©"
 
-
+        
 [params]
   name = "InsightBotics"
   description = "以大語言模型和自動化分析為核心 Navigating industry innovation with Automated Data Analysis / Large Language Models"
   initials = "Home"
-  googleAnalytics = ""
+  googleAnalytics = ""  
 
   [[params.social]]
     name = "Twitter"
@@ -35,8 +35,8 @@ copyright = "Insightbotics ©"
 
 [menu]
   [[menu.main]]
-    name = "Digital Garden"
-    url = "/garden/"
+    name = "數據洞察 (Data Insights)"
+    url = "/posts/"
     weight = 1
   [[menu.main]]
     name = "Projects"
