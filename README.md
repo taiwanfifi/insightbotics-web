@@ -1,0 +1,1 @@
+use `hugo server --baseURL="http://localhost:1313/"` while running on local server.

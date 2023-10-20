@@ -1,4 +1,4 @@
-baseURL = "https://taiwanfifi.github.io/insightbotics-web/"
+baseURL = "https://taiwanfifi.github.io/"
 languageCode = "en-us"
 title = "Insightbotics Academic Research"
 theme = "hugo-digital-garden-theme"
