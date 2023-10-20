@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://taiwanfifi.github.io/insightbotics-web/"
 languageCode = "en-us"
 title = "Insightbotics Academic Research"
 theme = "hugo-digital-garden-theme"
