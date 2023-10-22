@@ -54,7 +54,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Indent paragraphs to include them in the footnote.
 
-    `{ my code }`
+    `{ my code  }`
 
     Add as many paragraphs as you like.
 

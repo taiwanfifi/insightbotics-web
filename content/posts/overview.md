@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis Overview"
-date: 2030-01-01
-lastmod: 2030-12-31
+date: 2023-10-20
+lastmod: 2023-10-20
 draft: false
 garden_tags: ["Machine Learning", "Deep Learning"]
 summary: " "
