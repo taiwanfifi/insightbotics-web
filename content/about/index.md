@@ -1,21 +1,45 @@
 ---
-title: "Nigalya Ponya"
-date: 2015-01-01
-summary: "Himalayan red panda"
+title: "關於我們"
+date: 2023-10-01
+summary: "用商業思考與程式推動台灣數據創新"
 layout: about
 ---
 
-I have a reddish-brown fur, a long, shaggy tail, and a waddling gait due to my shorter front legs; I'm roughly the size of a domestic cat, though with a longer body.
-I live in trees and feed mainly on bamboo, but I also eat eggs, birds, and insects.
+Insightbotics致力於技術創新和專業知識的結合，更深信透過這樣的努力，可以為台灣的技術發展和經濟增長做出實質的貢獻。透過這些努力，我們希望能夠吸引更多的贊助者，一同支持台灣的高等人才，讓他們得到更好的發展機會，並為台灣的未來繼續做出貢獻。
 
-I joined the IUCN Endangered species red list in 2008 as a result of a constant population decline caused by habitat loss, poaching and inbreed depression.
+### 1. 背景與願景:  
+Insightbotics由一群具多元背景的專業人士組成，涵蓋了產業分析、技術研發、法律知識到醫療專業。我們的成員不僅曾在台灣前瞻產業分析領導組織、中國信託創業投資股份有限公司、中央研究院資訊科學所等知名組織深耕，更致力於將台灣的產業研究與全球經濟發展緊密結合。我們的願景是利用AI技術創新，創造更多的未來價值。
+
+### 2. 專業知識:
+- 產業研究: 我們具備工研院的專業技術和知識，了解無形資產評價、產業分析方法以及整體產業間的動態。
+- 法律知識: 我們正努力開發一套法律系統，使其更符合現代需求，並將其視覺化以利於勞工與社會福利。
+- 醫療創新: 我們正在研究一種醫療器材，專為媽媽和胎兒設計，能夠分離胎兒的心跳，並與台大婦產科醫師合作進行更多相關研究。
+
+### 2.1 合作與顧問業務：
+- 我們曾與立凱電能股份有限公司合作，協助其ESG Report編撰，並參與企業社會責任計畫。
+- 與高等學府的研究生建立深入合作，獲得最新的技術研發，並結合企業需求進行技術轉移。
+
+### 3. 未來計劃:
+2023Q2結合技術與產業知識的累積，在2023Q4，我們將集中精力完成多項論文研究，並開始為規劃讓台灣學術高等項目的初步設計。
+
+2024年的前半年，我們將全力為台清交大研究博士生爭取研究企業相關案件經費。
+
+- 2023-2024：完善現有的產品，如競爭對手即時監控系統和客戶行為預測引擎，並加入胎兒心跳分離的醫學器材技術，將其應用於更多醫療相關的領域。
+- 2024-2025：推出新的數據分析工具，專為企業在不同產業中的特定需求而設，如即時調整價格的動態價格設定引擎，以及利用時序分析的庫存最佳化工具。
+- 2025-2026：開發更先進的自然語言處理技術，從消費者在社交媒體上的反應中，更精確地捕捉市場動態，提供即時的策略建議。
+- 2026以後：結合我們在產業研究、法律和醫療創新的專業知識，推出一系列創新的解決方案，協助企業在全球經濟中獲得更大的競爭優勢。
+
+### 4. 未來願景:
+我們相信，透過跨領域的合作與專業知識的結合，可以突破傳統的界限，創造出真正有價值的創新。我們也認為，每一個領域都有其獨特的價值，只有將它們結合起來，才能發揮最大的潛力。
+
+
+
 
 
 
 [g0v零時小學校許願池 - 圖書館圖書簡易分類與管理](https://g0v.hackmd.io/@ichieh/Bkhy3chpL)
 [法律科技黑客松 2019](https://hackathon.lawsnote.com/index.php/2019legaltechhackathon/)
 
-統一編號：94176776
 
 聯繫信箱：william@insightbotics.com  
 For more information, you can take a look at my [Wikipedia page](https://en.wikipedia.org/wiki/Red_panda_)
